@@ -57,8 +57,6 @@ Projet personnel continu — *Mastère Cybersécurité, Efrei Bordeaux*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00f2ff?style=for-the-badge&logo=firefox&logoColor=black)](https://kim-san04.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hakim-sawadogo) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kim-San04)
 
-**Cheick Abdel Hadime Hakim SAWADOGO**
-*cheick.sawadogo@efrei.net*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=80&section=footer)
 
